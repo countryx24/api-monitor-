@@ -1,0 +1,7 @@
+{
+  "urls": [
+    "https://jsonplaceholder.typicode.com",
+    "https://api.github.com"
+  ],
+  "intervalMs": 15000
+}
